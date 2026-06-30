@@ -4,7 +4,7 @@ Personal link-site repository for `greg.tysick.com`.
 
 ## Current State
 
-- Local checkout: `Reputation/Repos/greg.tysick-website/main`
+- Local checkout: `Greg Tysick/Repos/greg.tysick-website/main`
 - Default branch: `main`
 - Public site surface: `site/`
 - Source backup: `D:\Dropbox\Obsidian\Executive Function\Greg Tysick\Projects\greg.tysick.com\greg.tysick.com.zip`
@@ -17,4 +17,3 @@ Personal link-site repository for `greg.tysick.com`.
 - `docs/` - deployment notes and migration context
 - `.cpanel.yml` - cPanel deployment copy recipe
 - `AGENTS.md` - repo-specific agent instructions
-
