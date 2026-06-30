@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /feed/
+Disallow: /comments/feed/
+Disallow: /elementor_library-temp
+
+Allow: /
+
+Sitemap: https://greg.tysick.com/sitemap.xml
