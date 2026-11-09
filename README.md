@@ -4,11 +4,11 @@ Personal link-site repository for `greg.tysick.com`.
 
 ## Current State
 
-- Local checkout: `Greg Tysick/Repos/greg.tysick-website/main`
+- Local checkout convention: `D:\Dropbox\Repos\greg.tysick-website`
 - Default branch: `main`
 - Public site surface: `site/`
 - Source backup: `D:\Dropbox\Obsidian\Executive Function\Greg Tysick\Projects\greg.tysick.com\greg.tysick.com.zip`
-- Deployment target: Namecheap cPanel document root `/home/beaufgfv/greg.tysick.com`
+- Deployment target: Namecheap cPanel document root `/home/beautifulgrowth/greg.tysick.com`
 - GitHub repo: `https://github.com/gregtysick/greg.tysick-website`
 
 ## Layout

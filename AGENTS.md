@@ -11,6 +11,6 @@ This repository contains Greg's personal link site for `greg.tysick.com`.
 
 ## Deployment
 
-- Production target: Namecheap cPanel document root `/home/beaufgfv/greg.tysick.com`.
+- Production target: Namecheap cPanel document root `/home/beautifulgrowth/greg.tysick.com`.
 - Use `.cpanel.yml` to copy `site/` into the production document root when deploying through cPanel Git Version Control.
 

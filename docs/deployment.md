@@ -4,7 +4,7 @@
 
 - Domain: `greg.tysick.com`
 - Host: Namecheap shared hosting / cPanel
-- Document root: `/home/beaufgfv/greg.tysick.com`
+- Document root: `/home/beautifulgrowth/greg.tysick.com`
 - SSL status on 2026-06-30: installed and live
 
 ## Source
